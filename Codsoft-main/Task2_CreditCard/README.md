@@ -1,4 +1,4 @@
-# CODSOFT DECEMBER 2023 ML TASK 2 - Credit Card Fraud Detection
+# CODSOFT JANUARY 2024 ML TASK 2 - Credit Card Fraud Detection
 
 ## Main Objective: *Fraud Credit Card Data Analysis and Detection*.
 
@@ -50,15 +50,12 @@ This repository contains Python code for detecting credit card fraud using a Ran
 - Scikit-Learn (`scikit-learn`)
 - TQDM (`tqdm`)
 - **Imbalanced-Learn** (`imblearn`)
-
- ###  youtube:
- https://youtu.be/x0rLhrN7uWk?feature=shared
   
 ### Linkedin video:
 Credit Card Fraud Detection
 https://www.linkedin.com/posts/cr-madhan-sai-ai_creditcardfrauddetection-codsoft-codsoftinternship-activity-7146701418295406592-ApUF?utm_source=share&utm_medium=member_desktop
 
 ### Author
-Madhan Sai CR
-> Contact me @ [LinkedIn](http://www.linkedin.com/in/cr-madhan-sai-AI) |  [Email](mailto:mscelegala2004@gmail.com)
+Latheef Ahmed A
+> Contact me @ [LinkedIn](https://www.linkedin.com/in/latheef-ahmed-13a3aa267) | [Email](mailto:lathad046@rmkcet.ac.in)
 
