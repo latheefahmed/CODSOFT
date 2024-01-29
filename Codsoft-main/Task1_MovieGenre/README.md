@@ -1,4 +1,4 @@
-# CODSOFT December 2023 ML TASK 1 - Movie Genre Classification
+# CODSOFT JANUARY 2024 ML TASK 1 - Movie Genre Classification
 
 ## Main Objective: *Movie Genre Learning, Identification and Classification*.
 
@@ -55,11 +55,9 @@ This folder contains Python code for a movie genre prediction system using Multi
 Movie Genre Classification:
 https://www.linkedin.com/posts/cr-madhan-sai-ai_moivegenreclassification-codsoft-codsoftinternship-activity-7146700824394555392-DcNe?utm_source=share&utm_medium=member_desktop
 
-### youtube:
-https://youtu.be/0e-FLqElR4U?feature=shared
 
 ### Author
 
-Madhan Sai CR
-> Contact me @ [LinkedIn](http://www.linkedin.com/in/cr-madhan-sai-AI) | [Email](mailto:mscelegala2004@gmail.com)
+Latheef Ahmed A
+> Contact me @ [LinkedIn](https://www.linkedin.com/in/latheef-ahmed-13a3aa267) | [Email](mailto:lathad046@rmkcet.ac.in)
 
