@@ -12,7 +12,7 @@ More details on the structure, working and requirements are available in the REA
 # TASK CATEGORY: Machine Learning
 # DATE OF SUBMISSION: 02-02-2024
 # LinkedIn Profile:https://www.linkedin.com/in/latheef-ahmed-13a3aa267
-#Github Profile:https://github.com/111622201055
+#Github Profile:https://github.com/latheefahmed
 
 
 # Lets start the code by importing necessary libraries
