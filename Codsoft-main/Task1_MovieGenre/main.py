@@ -6,7 +6,7 @@ I'm very thrilled to share my First Task at CodSoft Internship December 2023 viz
 More details on the structure, working and requirements are available in the README files of respective folder name corresponding to the Task Name.
 '''
 
-# AUTHOR: Madhan Sai CR
+# AUTHOR: LATHEEF
 # TASK NAME: Movie Genre Classification
 # 1st Task in the List of Tasks
 # TASK CATEGORY: Machine Learning
