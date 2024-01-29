@@ -53,7 +53,7 @@ This repository contains Python code for detecting credit card fraud using a Ran
   
 ### Linkedin video:
 Credit Card Fraud Detection
-https://www.linkedin.com/posts/cr-madhan-sai-ai_creditcardfrauddetection-codsoft-codsoftinternship-activity-7146701418295406592-ApUF?utm_source=share&utm_medium=member_desktop
+https://www.linkedin.com/posts/latheef-ahmed-13a3aa267_creditcardfrauddetection-codsoft-codsoftinternship-activity-7157742876297203712-DCot?utm_source=share&utm_medium=member_desktop
 
 ### Author
 Latheef Ahmed A
