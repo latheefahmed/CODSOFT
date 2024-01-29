@@ -1,18 +1,18 @@
 '''
-Hello everyone! This is Madhan Sai CR
+Hello everyone! This is Latheef Ahmed A
 Intern at CODSOFT, India.
 
-I'm very thrilled to share my First Task at CodSoft Internship December 2023 viz. MOVIE GENRE CLASSIFICATION MODEL.
+I'm very thrilled to share my First Task at CodSoft Internship January 2024 viz. MOVIE GENRE CLASSIFICATION MODEL.
 More details on the structure, working and requirements are available in the README files of respective folder name corresponding to the Task Name.
 '''
 
-# AUTHOR: LATHEEF
+# AUTHOR: LATHEEF AHMED A
 # TASK NAME: Movie Genre Classification
 # 1st Task in the List of Tasks
 # TASK CATEGORY: Machine Learning
-# DATE OF SUBMISSION: 30 december 2023
-# LinkedIn Profile:http://www.linkedin.com/in/cr-madhan-sai-AI
-#Github Profile:https://github.com/111622201057
+# DATE OF SUBMISSION: 02-02-2024
+# LinkedIn Profile:https://www.linkedin.com/in/latheef-ahmed-13a3aa267
+#Github Profile:https://github.com/111622201055
 
 
 
