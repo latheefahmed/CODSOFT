@@ -1,4 +1,4 @@
-# CODSOFT JAANUARY 2024 ML TASK 4 - Spam SMS Detection
+# CODSOFT JANUARY 2024 ML TASK 4 - Spam SMS Detection
 
 ## Main Objective: *Spam SMS Data Learning, Identification, Classification and generate a Statistical Report*.
 
